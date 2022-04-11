@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979995667139",
+    "project_id": "teste-coife",
+    "storage_bucket": "teste-coife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979995667139:android:ba058def82d2be638a1076",
+        "android_client_info": {
+          "package_name": "com.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979995667139-93pss4v6mthjocug49866kms2v27ir9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLyUSo16XFp93yg3-vK2v0yyQbfiZb3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979995667139-93pss4v6mthjocug49866kms2v27ir9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
